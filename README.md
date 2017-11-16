@@ -1,0 +1,2 @@
+# Amarizs
+my first repository
